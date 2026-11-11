@@ -9,11 +9,10 @@
 e-badge&logo=read-the-docs&logoColor=white)](LINK_DO_PDF_OU_SITE)
 ---
 ### 󰞵 Sobre
-Atualmente cursando o [Xº] período de [Nome do Curso] na [Nome da
-Instituição]. Sou apaixonado por resolver problemas através da
-tecnologia e possuo foco em [Área de Interesse - ex: Desenvolvimento
-Backend / Análise de Dados].
-* **Habilidades Técnicas:** [Ex: Python, Java, SQL, AWS, Docker].
+Atualmente cursando o 2° período de Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo. 
+Sou apaixonado por resolver problemas através da
+tecnologia e possuo foco em Desenvolvimento Backend.
+* **Habilidades Técnicas:** Python, html e C
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação
 assertiva e pensamento crítico.
 * **Experiência/Projetos Relevantes:** Atuei em [Projeto de Iniciação
