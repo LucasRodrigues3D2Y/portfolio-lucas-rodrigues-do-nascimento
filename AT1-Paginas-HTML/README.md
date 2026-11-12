@@ -16,8 +16,8 @@ a eficácia do modelo híbrido.
 * **Visualização de Clusters:** Implementei gráficos que mostram como o
 sistema agrupa filmes por afinidade.
 ## 🧠 Declaração de Uso Ético da IA
-Este projeto utilizou inteligência artificial ([Gemini]) estritamente como ferramenta de suporte
-tecnológico para [refinar o CSS]. Todo o código gerado foi revisado,
+Este projeto utilizou inteligência artificial Gemini estritamente como ferramenta de suporte
+tecnológico para refinar o CSS. Todo o código gerado foi revisado,
 testado e compreendido por mim, garantindo a minha responsabilidade
 integral sobre a autoria final, integridade e funcionamento da
 aplicação.
