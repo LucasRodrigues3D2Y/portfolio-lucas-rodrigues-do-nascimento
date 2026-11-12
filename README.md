@@ -46,7 +46,7 @@ com IA. | [Ver Projeto](./AT5-Front-End-Copilotado-com-IA/) |
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Nome do projeto** | Documento de Requisitos, Modelagem ER e Scripts
-SQL. | [Ver Projeto](./projeto-banco-dados/) |
+SQL. | [Ver Projeto](https://lucasrodrigues3d2y.github.io/dicionario-de-dados-modelagem/) |
 ---
 ### 🏗 Estrutura do Repositório
 Abaixo, a organização deste repositório para facilitar a navegação:
