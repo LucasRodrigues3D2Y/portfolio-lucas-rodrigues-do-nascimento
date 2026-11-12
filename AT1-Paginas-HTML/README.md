@@ -2,11 +2,7 @@
 ## 📝 Descrição do Projeto
 Este projeto consiste em um site para divulgar e entrar em contato com uma assistência
 Desenvolvido como parte das disciplinas de **Desenvolvimento Front-End
-Para Web (2026.2)**, o sistema processa grandes volumes de dados
-(datasets de filmes e avaliações) para identificar padrões de
-comportamento e similaridades entre títulos, utilizando algoritmos de
-aprendizado de máquina para prever a nota que um usuário daria a um
-filme ainda não assistido.
+Para Web (2026.2)**, ele é formado por 5 páginas: uma página inicial com o banner da empresa, uma com informações de contato, uma falando sobre a filosofia e historia da empresa, uma apresentando serviços que a empresa oferece e o portfólio
 ## 🚀 Tecnologias Utilizadas
 * **Linguagem:** HTML5, CSS e JavaScript
 * **Bibliotecas:** Bootstrap
