@@ -13,7 +13,8 @@ tecnologia e possuo foco em Desenvolvimento Backend.
 * **Habilidades Técnicas:** Python, html e C
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação
 assertiva e pensamento crítico.
-* **Experiência/Projetos Relevantes:** Atuei em apresentacões onde desenvolvi [resultado principal].
+* **Experiência/Projetos Relevantes:** Atuei em apresentações onde desenvolvi habilidades de oratória. Também realizei
+* atividades de programação
 ---
 ### 🛠 Minhas Ferramentas Favoritas
 #### 💻 Linguagens e Tecnologias
