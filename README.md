@@ -40,7 +40,7 @@ assertiva e pensamento crítico.
 #### 🗃 Modelagem de Banco de Dados
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Nome do projeto** | Documento de Requisitos, Modelagem ER e Scripts SQL. | [Ver Projeto (https://lucasrodrigues3d2y.github.io/dicionario-de-dados-modelagem/) |
+| **Nome do projeto** | Documento de Requisitos, Modelagem ER e Scripts SQL. | [Ver Projeto](https://lucasrodrigues3d2y.github.io/dicionario-de-dados-modelagem/) |
 ---
 ### 🏗 Estrutura do Repositório
 Abaixo, a organização deste repositório para facilitar a navegação:
