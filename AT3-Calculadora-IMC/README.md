@@ -6,7 +6,7 @@ Para Web (2026.2)**, o sistema pede o peso e altura ao usuário,
 realiza o cálculo (peso/altura) e mostra se ele tem obesidade, sobrepeso, 
 está no peso adequado ou abaixo do peso.
 ## 🚀 Tecnologias Utilizadas
-* **Linguagem:** HTML5
+* **Linguagem:** HTML5 e Javascript
 * **Bibliotecas:** none
 * **Ferramentas:** VSCode
 * **Modelo de IA:** Deepseek
