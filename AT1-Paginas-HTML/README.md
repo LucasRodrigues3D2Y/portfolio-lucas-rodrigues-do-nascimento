@@ -2,7 +2,7 @@
 ## 📝 Descrição do Projeto
 Este projeto consiste em um site para divulgar e entrar em contato com uma assistência
 Desenvolvido como parte das disciplinas de **Desenvolvimento Front-End
-Para Web (2026.2)**, ele é formado por 5 páginas: uma página inicial com o banner da empresa, uma com informações de contato, uma falando sobre a filosofia e historia da empresa, uma apresentando serviços que a empresa oferece e o portfólio com o feedback de clientes 
+Para Web (2026.2)**, ele é formado por 5 páginas: uma página inicial com o banner da empresa, uma com informações de contato, uma falando sobre a filosofia e historia da empresa, uma apresentando serviços que a empresa oferece e o portfólio com mais serviços 
 ## 🚀 Tecnologias Utilizadas
 * **Linguagem:** HTML5, CSS e JavaScript
 * **Bibliotecas:** Bootstrap
