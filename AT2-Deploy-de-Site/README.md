@@ -1,4 +1,4 @@
-# 🎬 Nome do Projeto
+# 🎬 Deploy
 ## 📝 Descrição do Projeto
 Este projeto consiste em fazer um deploy do site dentro da AT1
 Desenvolvido como parte das disciplinas de **Desenvolvimento Front-End
